@@ -4,6 +4,6 @@ let b = 2 ;
 
 console.log(a+b);
 
-let c = 45;
+let c = 5;
 
 console.log(a+b+c);
